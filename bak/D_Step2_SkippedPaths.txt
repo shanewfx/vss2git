@@ -1,0 +1,89 @@
+$/Archive/$Depricated
+$/Archive/$MatrixElements 1.5
+$/Archive/$P1.8
+$/Archive/$W3.0
+$/Archive/CR 85 Runtimes.zip
+$/Archive/VDrawSerial.doc
+$/Archive/Depricated/$Database
+$/Archive/Depricated/$Elements
+$/Archive/Depricated/$PlotManager
+$/Archive/Depricated/$PT
+$/Archive/Depricated/$PVC
+$/Archive/Depricated/$Wood
+$/Archive/Depricated/Depricated Tools.zip
+$/Archive/Depricated/Database/MergedResults.mdb
+$/Archive/Depricated/Database/MxERights.ini
+$/Archive/Depricated/Database/MxKozijnUKRights.ini
+$/Archive/Depricated/Database/pt_Elements_TEHA.mdb
+$/Archive/Depricated/Elements/$OldVersions
+$/Archive/Depricated/Elements/OldVersions/MatrixElements 1.2.zip
+$/Archive/Depricated/Elements/OldVersions/MatrixElements 1.3.zip
+$/Archive/Depricated/Elements/OldVersions/MatrixElements 1.4.zip
+$/Archive/Depricated/PlotManager/$Include
+$/Archive/Depricated/PlotManager/$Language
+$/Archive/Depricated/PlotManager/$Lib
+$/Archive/Depricated/PlotManager/$Source
+
+
+
+<<<   ERASED   >>>
+
+
+
+
+$/Wood/WEB/images/lib.bmp
+$/Wood/WEB/images/MerkArtikelen.png
+$/Wood/WEB/images/MUCTabellen.png
+$/Wood/WEB/images/mxlogo.jpg
+$/Wood/WEB/images/NewProject.png
+$/Wood/WEB/images/OpenProject.png
+$/Wood/WEB/images/OuterGrooveProject.png
+$/Wood/WEB/images/OuterGrooves.gif
+$/Wood/WEB/images/PaneContentGroups.gif
+$/Wood/WEB/images/PaneGrooveProject.png
+$/Wood/WEB/images/PaneGrooves.gif
+$/Wood/WEB/images/Panes.png
+$/Wood/WEB/images/pbk1080.gif
+$/Wood/WEB/images/pbull.gif
+$/Wood/WEB/images/peye.jpg
+$/Wood/WEB/images/plg.gif
+$/Wood/WEB/images/pln.gif
+$/Wood/WEB/images/pmr.gif
+$/Wood/WEB/images/pmra.gif
+$/Wood/WEB/images/pmt.gif
+$/Wood/WEB/images/pmta.gif
+$/Wood/WEB/images/ProductenTabel30.png
+$/Wood/WEB/images/ProfileCombies.gif
+$/Wood/WEB/images/ProjectCostplaces.png
+$/Wood/WEB/images/ProjectOnderhoud.png
+$/Wood/WEB/images/ProjectPriceCorrections.png
+$/Wood/WEB/images/ProjectProfiles.png
+$/Wood/WEB/images/ProjectProperties.gif
+$/Wood/WEB/images/RaamDeurCombies.png
+$/Wood/WEB/images/RackCombies.gif
+$/Wood/WEB/images/Reports.gif
+$/Wood/WEB/images/Roundings.gif
+$/Wood/WEB/images/RoundingsProject.png
+$/Wood/WEB/images/SamengesteldeProfielen.png
+$/Wood/WEB/images/Series.gif
+$/Wood/WEB/images/TextLibrary.gif
+$/Wood/WEB/images/TreshHolds.png
+$/Wood/WEB/images/VariableWoodtypes.gif
+$/Wood/WEB/images/WerkvoorbereidingBeheer30.png
+$/Wood/WEB/images/WindowFrameNameSelectionsProject.gif
+$/Wood/WEB/images/WindowFrameNameSettingsProject.gif
+$/Wood/WEB/images/WKVInstellingen.png
+$/Wood/WEB/images/WoodCodes.png
+$/Wood/WEB/MxK/Wood/NL/ProjClosed/index.xsl
+$/Wood/WEB/MxK/Wood/NL/ProjClosed/library.html
+$/Wood/WEB/MxK/Wood/NL/ProjClosed/options.html
+$/Wood/WEB/MxK/Wood/NL/ProjClosed/support.html
+$/Wood/WEB/MxK/Wood/NL/ProjOpen/index.html
+$/Wood/WEB/MxK/Wood/NL/ProjOpen/library.html
+$/Wood/WEB/MxK/Wood/NL/ProjOpen/options.html
+$/Wood/WEB/MxK/Wood/NL/ProjOpen/project.html
+$/Wood/WEB/MxK/Wood/NL/ProjOpen/support.html
+
+
+>> SKIPPED FILES: 31374
+TOTAL FILES: 42271 item(s)

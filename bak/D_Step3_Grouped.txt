@@ -1,0 +1,1818 @@
+**********
+1
+2007-04-12 11:07
+Dainius
+$/Wood/UserFileConverter/ProgressDlg/ProgressDlg.h
+1
+
+**********
+2
+2009-10-08 10:05
+Gediminas
+$/Wood/MxKLibraryUI/Source/RacksUI/RackShapeUtil.h
+24
+$/Wood/MxKLibraryUI/Source/RacksUI/RackShapeUtil.cpp
+27
+
+**********
+3
+2009-10-08 14:15
+Jonas
+$/PVC/DatabaseConverter/WizardPage2.h
+12
+$/Wood/DatabaseConverter/WizardPage1.cpp
+34
+$/Wood/DatabaseConverter/WizardPage1.h
+11
+$/Wood/DatabaseConverter/WizardPage2.cpp
+20
+$/Wood/DatabaseConverter/WizardPage2.h
+11
+$/Elements/DatabaseConverter/UI/WizardSheetObs.h
+3
+$/Wood/DatabaseConverter/WizardPage3.cpp
+11
+$/Wood/DatabaseConverter/WizardPage3.h
+9
+$/Wood/DatabaseConverter/WizardSheet.cpp
+23
+$/Wood/DatabaseConverter/WizardSheet.h
+10
+$/Wood/DatabaseConverter/WizardSheetObs.h
+3
+
+**********
+4
+2009-10-08 15:17
+Dainius
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/DXFInfoCollector/DXFPaneCombiLHTextVis.cpp
+1
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/DXFInfoCollector/DXFPaneCombiLHTextVis.h
+1
+$/MatrixKozijn Tools/DXF/MxKDXFUtils/GenerateBrandDrawingAbs.h
+32
+$/MatrixKozijn Tools/DXF/MxKDXFUI/Source/GenerateDXF/GenerateDrawing.cpp
+153
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/GenerateBrandDrawing.cpp
+195
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/GenerateBrandDrawing.h
+53
+
+**********
+5
+2009-10-08 19:17
+Jonas
+$/Elements/DatabaseConverter/UI/WizardSheetObs.h
+5
+$/Elements/DatabaseConverter/UI/WizardSheet.h
+7
+$/Elements/DatabaseConverter/UI/WizardSheet.cpp
+9
+$/Elements/DatabaseConverter/UI/WizardPage3.h
+6
+$/Elements/DatabaseConverter/UI/WizardPage3.cpp
+7
+$/Elements/DatabaseConverter/UI/WizardPage2.h
+7
+$/Elements/DatabaseConverter/UI/WizardPage2.cpp
+9
+$/Elements/DatabaseConverter/UI/WizardPage1.h
+8
+$/Elements/DatabaseConverter/UI/WizardPage1.cpp
+13
+$/Elements/DatabaseConverter/Functions/GenericConverter.h
+10
+$/Elements/DatabaseConverter/Functions/GenericConverter.cpp
+14
+$/Elements/DatabaseConverter/MxEConvert.cpp
+10
+$/PVC/DatabaseConverter/LIBConverter.cpp
+38
+$/PVC/DatabaseConverter/OPTConverter.cpp
+42
+$/PVC/DatabaseConverter/PTConverter.cpp
+46
+
+**********
+6
+2009-10-09 11:11
+Gediminas
+$/Wood/MxKShapeDrawing/Source/MxKShapeDrawingInterface.h
+22
+$/Wood/MxKLibraryUI/Source/RacksUI/RackShapeUtil.h
+25
+$/Wood/MxKLibraryUI/Source/RacksUI/RackShapeUtil.cpp
+29
+$/Wood/MxKLibraryUI/Source/RacksUI/HorzShapesDlg.cpp
+15
+$/Wood/MxKShapeDrawing/Source/MxKShapeDrawingInterface.cpp
+46
+
+**********
+7
+2009-10-09 11:45
+Tomas
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/StdAfx.h
+17
+
+**********
+8
+2009-10-09 14:01
+Gediminas
+$/Wood/MxKLibraryUI/Source/RacksUI/RackShapeUtil.h
+26
+$/Wood/MxKShapeDrawing/Source/MxKShapeDrawingInterface.h
+25
+$/Wood/MxKLibraryUI/Source/RacksUI/RackShapeUtil.cpp
+31
+$/Wood/MxKShapeDrawing/Source/ShapeEditor/ShapeDrawMgrImpl.cpp
+22
+$/Wood/MxKShapeDrawing/Source/MxKShapeDrawingInterface.cpp
+49
+$/Wood/MxKShapeDrawing/Source/ShapeEditor/ShapeDrawMgrImpl.h
+20
+
+**********
+9
+2009-10-09 14:46
+Tomas
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsDlg.cpp
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/resource.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/StdAfx.cpp
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/StdAfx.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/RepConfReportPage2.cpp
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/RepConfReportPage2.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/RepDlgRetValues.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/RepGrpSettings.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsDlgImpl.cpp
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsDlgImpl.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsDlgUtil.cpp
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsDlgUtil.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsGroupsDlg.cpp
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsGroupsDlg.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsGroupsDlgHandler.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsGroupsTemplate.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsSelSheet.cpp
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsSelSheet.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsSheet.cpp
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsSheet.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsGroupsTemplate.cpp
+1
+
+**********
+10
+2009-10-09 14:47
+Gediminas
+$/Wood/MxKLibraryUI/Source/RacksUI/RackShapeUtil.cpp
+32
+
+**********
+11
+2009-10-09 16:25
+Tomas
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsGroupsTemplate.h
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsGroupsTemplate.cpp
+3
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportData.h
+2
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/Functions/CRPrintImpl.cpp
+32
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/Functions/CRPrintImpl.h
+18
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/SCRRepInfo.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/SimpleCoder.cpp
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/SimpleCoder.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/RepFiltersEdit.cpp
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/RepFiltersEdit.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/RepFilterWizard.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/OutLookRichEdit.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/RepFilterWizardWordsDlg.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/OutLookRichEdit.cpp
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Language/ResDef.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportsRegistry.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportsRegistry.cpp
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportsFiles.cpp
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportsFiles.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportOptions.cpp
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportOptions.h
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportOptionsImpl.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportOptionsImpl.cpp
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/RepFilterWizard.cpp
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/RepConfReportPage2.cpp
+4
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/RepFilterWizardWordsDlg.cpp
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/ReportsFiltersTemplate.cpp
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/resource.h
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/ReportsFiltersTemplate.h
+2
+$/MatrixKozijn Tools/Ctrl/TEMPLATEUTILS/TemplateAbs.h
+4
+$/MatrixKozijn Tools/Ctrl/TEMPLATEUTILS/NewTemplDlg.h
+7
+$/MatrixKozijn Tools/Ctrl/TEMPLATEUTILS/TemplCodeDescrDlg.h
+16
+$/MatrixKozijn Tools/Ctrl/TEMPLATEUTILS/TemplSheetAbs.h
+4
+$/MatrixKozijn Tools/Ctrl/TEMPLATEUTILS/TemplEditorDlg.h
+20
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsGroupsGrid.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/TemplNewDescrDlg.h
+3
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsGroupsGrid.cpp
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/TemplNewDescrDlg.cpp
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsGroupsDlg.cpp
+3
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsFiltersDlg.h
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsFiltersDlg.cpp
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsDlgImpl.cpp
+3
+
+**********
+12
+2009-10-09 16:53
+Jonas
+$/PVC/DatabaseConverter/LIBConverter.cpp
+39
+$/PVC/DatabaseConverter/PTConverter.cpp
+47
+$/PVC/DatabaseConverter/PTConverter.h
+17
+
+**********
+13
+2009-10-09 16:53
+Tomas
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/RepConfArtGroupSelectionPage.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/RepConfArtGroupSelectionPage.cpp
+1
+
+**********
+14
+2009-10-12 14:06
+Jonas
+$/PVC/PVCFunc/Source/BrandOperations/AutomaticSteels/SteelRuleNames.cpp
+4
+
+**********
+15
+2009-10-12 15:11
+Tomas
+$/PVC/MxKPProfileTree/Source/MxKPProfileTree.cpp
+11
+$/PVC/MxKPSteelStiffGrids/Source/MxKPSteelStiffGrid.cpp
+6
+$/PVC/MatrixKozijnPlastic/Functions/MxKDatabase/DatabasesRegistry.h
+19
+
+**********
+16
+2009-10-12 15:42
+Jonas
+$/PVC/MatrixKozijnPlastic/UI/MainUI/ProjConvert/CmdLineConv.cpp
+1
+$/PVC/MatrixKozijnPlastic/UI/MainUI/ProjConvert/CmdLineConv.h
+1
+
+**********
+17
+2009-10-12 17:56
+Tomas
+$/MatrixKozijn Tools/MxKGrids/Include/MxKGridsAll.h
+18
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ArtGroupSelGridWnd.h
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportsFiles.cpp
+3
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportOptions.cpp
+3
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/RepConfArtGroupSelectionPage.cpp
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ArtGroupSelGridWnd.cpp
+3
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/resource.h
+8
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/ReportsModule.h
+3
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/StdAfx.h
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsDlg.h
+2
+
+**********
+18
+2009-10-12 18:01
+Jonas
+$/PVC/MatrixKozijnPlastic/UI/MainUI/AppMenuMgr.cpp
+76
+$/PVC/MatrixKozijnPlastic/UI/MainUI/ProjConvert/CmdLineConv.cpp
+2
+$/PVC/MatrixKozijnPlastic/UI/MainUI/ProjConvert/CmdLineConv.h
+2
+
+**********
+19
+2009-10-12 18:15
+Dainius
+$/MatrixKozijn Tools/DXF/MxKDXFUtils/DXFGeneration/DXFGenerationCollumn.h
+1
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandProperties.h
+1
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandProperties.cpp
+1
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandDrawing.h
+1
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandDrawing.cpp
+1
+
+**********
+20
+2009-10-12 18:40
+Tomas
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsDlg.h
+3
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsDlgI.h
+2
+$/MatrixKozijn Tools/Ctrl/TEMPLATEUTILS/TemplEditorDlg.h
+21
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsDlgI.cpp
+3
+
+**********
+21
+2009-10-13 10:05
+Jonas
+$/PVC/DatabaseConverter/CommandLineConv.h
+1
+$/PVC/DatabaseConverter/CommandLineConv.cpp
+1
+
+**********
+22
+2009-10-13 14:58
+Tomas
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/StdAfx.cpp
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsDlgImpl.h
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/RepDlgRetValues.h
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsDlgImpl.cpp
+4
+$/Wood/MatrixKozijn/UI/DBManager/ToolsDlgsLauncher.cpp
+38
+$/Wood/MatrixKozijn/UI/MainUI/MatrixKozijn.cpp
+367
+$/Wood/MatrixKozijn/UI/ProjectInput/ProjectInput.cpp
+314
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsSimpleDlg.cpp
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsSimpleDlg.h
+2
+$/PVC/MxKPProjectUI/Source/ReportsUI/RepConfigurationDlg.cpp
+48
+$/PVC/MatrixKozijnPlastic/UI/ProjectInput/ProjectInput.cpp
+139
+$/PVC/MatrixKozijnPlastic/UI/MainUI/MatrixKozijnPlastic.cpp
+221
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/ReportsInterface.h
+44
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/ReportsInterface.cpp
+54
+$/MatrixKozijn Tools/Modules/ReportsModule/Include/ReportsModuleAll.h
+15
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsTreeBar.h
+29
+$/MatrixKozijn Tools/UI/ReportsDlg/Include/ReportsDlgAll.h
+6
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsDlgI.h
+12
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsDlgI.cpp
+13
+
+**********
+23
+2009-10-13 15:03
+Gediminas
+$/Elements/MatrixElements/Functions/Drawings/DrawUtils.cpp
+57
+
+**********
+24
+2009-10-13 17:47
+Tomas
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/ReportsFiltersTemplate.h
+3
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/ReportsFiltersTemplate.cpp
+3
+$/MatrixKozijn Tools/UI/ReportsDlg/Include/ReportsDlgAll.h
+7
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/Functions/CRPrintImpl.h
+19
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/Functions/CRPrintImpl.cpp
+33
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsTreeCtrl.cpp
+23
+$/MatrixKozijn Tools/Modules/ReportsModule/Include/ReportsModuleAll.h
+17
+$/PVC/MatrixKozijnPlastic/UI/ProjectInput/ProjectInput.cpp
+140
+$/Wood/MatrixKozijn/UI/ReportsUI/RepConfigurationDlg.h
+52
+$/PVC/MxKPProjectUI/Source/ReportsUI/RepConfigurationDlg.h
+18
+$/Elements/MatrixElements/UI/ProjectInput/ProjectInput.cpp
+214
+$/Elements/MatrixElements/UI/DBManager/ToolsLaunch.cpp
+9
+$/Elements/Include/MxEVisOptUtil.h
+23
+$/Elements/Include/MxEVisibilityOptions.h
+76
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportOptions.cpp
+4
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportOptions.h
+3
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/OutLookRichEdit.h
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/RepFiltersEdit.h
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/RepFilterWizard.h
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/RepFilterWizardWordsDlg.h
+2
+$/Wood/MatrixKozijn/UI/MainUI/Exports/ExportsLauncher.cpp
+26
+$/Wood/MatrixKozijn/UI/MainUI/MatrixKozijn.cpp
+368
+$/Wood/MatrixKozijn/Functions/DXFReports/MxKDBPathSet.cpp
+12
+$/Wood/MatrixKozijn/Functions/DXFReports/GenerateDXFReports.cpp
+28
+$/MatrixKozijn Tools/Modules/ReportsModule/Include/TempReportsPath.h
+11
+$/Elements/MatrixElements/Data/Project/EdgeObjects/LiftFacility.h
+15
+$/Elements/MatrixElements/Data/Project/Element/Border.h
+27
+$/Elements/MatrixElements/Data/PaneTemplates/PaneTemplatesLib/PanelLayerLoader.cpp
+28
+$/Elements/MatrixElements/Data/Project/Element/Frame/DegConnection.h
+26
+$/Elements/MatrixElements/Data/PaneTemplates/PaneTemplatesLib/PanelLayerLoader.h
+17
+$/Elements/MatrixElements/Data/Project/Element/Edge.h
+21
+$/Elements/MatrixElements/Data/Project/Element/ElemRemark.h
+14
+$/Elements/MatrixElements/Data/Project/Element/ManualPanel.h
+20
+$/Elements/MatrixElements/Data/Project/Element/Pane.h
+25
+$/Elements/MatrixElements/Data/Project/Element/Frame/BeamCombi.h
+54
+$/Elements/MatrixElements/Data/Project/Element/Frame/BeamCombiSegment.h
+29
+$/Elements/MatrixElements/Data/Project/Element/Frame/CornerConnection.h
+27
+$/Elements/MatrixElements/Data/PaneTemplates/PaneTemplatesLib/PanelTemplateLoader.h
+17
+$/Elements/MatrixElements/Data/PaneTemplates/PaneTemplatesProj/PanelTemplate.h
+28
+$/Elements/MatrixElements/Data/Project/EdgeObjects/Brace.h
+14
+$/Elements/MatrixElements/UI/SharedUI/ProfileTreeBar.cpp
+22
+$/Elements/MatrixElements/UI/ProjectInput/ElementInput/StructureFrm.cpp
+38
+$/Elements/MatrixElements/UI/MainUI/MainFrm.cpp
+156
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsDB/ReportsDBMgr.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsDlgI.cpp
+16
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsDlgI.h
+16
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/RepConfReportPage2.h
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsDB/ReportsDBMgr.cpp
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/TemplNewDescrDlg.h
+4
+$/Wood/MatrixKozijn/UI/ReportsUI/RepConfigurationDlg.cpp
+132
+$/Wood/MatrixKozijn/UI/DBManager/ProjectDlgsLauncher.cpp
+217
+$/Wood/MatrixKozijn/UI/ProjectInput/ProjectInput.cpp
+317
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/ReportsInterface.h
+50
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/ReportsInterface.cpp
+61
+$/PVC/MxKPProjectUI/Source/ReportsUI/RepConfigurationDlg.cpp
+51
+$/PVC/MxKPProjectUI/Source/MxKPProjectUIInterface.cpp
+30
+
+**********
+25
+2009-10-13 18:22
+Dainius
+$/MatrixKozijn Tools/DXF/MxKDXFUI/Source/GenerateDXF/GenerateDrawing.cpp
+154
+$/MatrixKozijn Tools/DXF/MxKDXFUtils/DXFGeneration/DXFGenerationCollumn.h
+2
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/GenerateBrandDrawing.cpp
+196
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/GenerateBrandDrawing.h
+54
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandDrawing.h
+2
+$/MatrixKozijn Tools/DXF/MxKDXFUtils/GenerateBrandDrawingAbs.h
+33
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandProperties.h
+2
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandProperties.cpp
+2
+$/MatrixKozijn Tools/DXF/MxKDXFUtils/DrawingTemplateStruct.h
+69
+$/MatrixKozijn Tools/DXF/MxKDXFUI/Source/GenerateDXF/GenerateDrawing.h
+68
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandDrawing.cpp
+2
+
+**********
+26
+2009-10-13 18:36
+Jonas
+$/PVC/MatrixKozijnPlastic/UI/MainUI/ProjConvert/CmdLineConv.h
+3
+$/PVC/MatrixKozijnPlastic/UI/MainUI/ProjConvert/CmdLineConv.cpp
+3
+$/PVC/MatrixKozijnPlastic/UI/MainUI/ProjConvert/ProjConvert1818.cpp
+10
+$/PVC/DatabaseConverter/CommandLineConv.h
+2
+$/PVC/DatabaseConverter/CalcProgDlg.cpp
+9
+$/PVC/DatabaseConverter/PTConverter.h
+18
+$/PVC/DatabaseConverter/CalcProgDlg.h
+9
+$/PVC/DatabaseConverter/PTConverter.cpp
+48
+$/PVC/DatabaseConverter/MXKConvert.cpp
+20
+$/PVC/DatabaseConverter/MXKConvert.h
+9
+$/PVC/DatabaseConverter/CommandLineConv.cpp
+2
+
+**********
+27
+2009-10-13 18:42
+Tomas
+$/PVC/MatrixKozijnPlastic/UI/ProjectInput/ProjectInput.cpp
+141
+$/Elements/MatrixElements/UI/ProjectInput/ProjectInput.cpp
+216
+
+**********
+28
+2009-10-14 17:47
+Tomas
+$/Wood/MxKCalculations/UI/ReportsUI/RepConfigurationDlg.cpp
+122
+$/Wood/MxKCalculations/UI/ReportsUI/RepConfigurationDlg.h
+52
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxrtti.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXVIEW.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/RWUXTheme.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxscell.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/StingrayExportDefs.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxgmouse.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxhexbyte.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GxHtmlW.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXIME.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gximouse.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXINFWND.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxman.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxmesmac.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXMSG.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXODBC.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXOLE.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxoleusr.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxctwnd.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXVW.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GxPgBrak.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxplugin.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXPRIV.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxproc.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXPRPDLG.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxrddoc.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxrdvw.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxresrc.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxsRegex.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXSTATE.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxttn.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxsttip.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxcalc.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXBROWSE.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxautscr.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXSTYDLG.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/Gxstyles.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxtmpl.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxtabser.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxtbadpt.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxtbgadp.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxtbmgr.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxapatr.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXALL.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXADO.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxabstr.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/VC6PlatDefs.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXTCHAR.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxcurbas.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/SupportedPlatforms.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXSCRLTP.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/Gxctrli.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXCTRL.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxserror.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxctplug.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxsexpr.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/Gxcrtf.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXVER.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/Gxcore.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXCOLL.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxcole.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXSINC.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxsort.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxcmd.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXTWND.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxclsite.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxchsfrm.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxchfrm.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXSplit.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXDAO.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxdaobmp.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxdcadpt.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxddib.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxdef.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXDELAYR.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXDLL.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxdoc.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxexrd.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxDSplit.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxexole.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxDTabWnd.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxexmpst.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxdtcal.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxdtctrl.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxdtmpl.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxexmap.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxengine.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxexbse.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxexdef.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxexfmrd.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxexman.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxexmac.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxexlog.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxexhnd.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxexfrm.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxexhlp.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxexhdr.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxexft.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxextbl.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxextb.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXEXT.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxfctry.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxcurctl.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/ManifestDefs.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxcvrcel.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/ProductVersions.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxfradpt.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxfltcel.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/secxmlcore.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxxrdrim.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/secxmldef.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/GXWND.h
+1
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/gxwchr.h
+1
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsDlg.cpp
+2
+
+**********
+29
+2009-10-14 19:29
+Dainius
+$/MatrixKozijn Tools/DXF/MxKDXFUI/Source/GenerateDXF/GenerateDrawing.cpp
+155
+$/MatrixKozijn Tools/DXF/MxKDXFUtils/GenerateBrandDrawingAbs.h
+34
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/GenerateBrandDrawing.h
+55
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandDrawing.h
+3
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandProperties.h
+3
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/GenerateBrandDrawing.cpp
+197
+
+**********
+30
+2009-10-15 14:00
+Tomas
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsTreeCtrl.cpp
+24
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/RepTabWnd.cpp
+5
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReportsBar.h
+8
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReportsBar.cpp
+18
+$/MatrixKozijn Tools/MxKLang/Source/LangSupport.cpp
+17
+$/Libraries/StingrayStudio 2006 v3/Include/Grid/config/gxstndrd.h
+1
+$/MatrixKozijn Tools/MxKGrids/Source/StdAfx.h
+17
+
+**********
+31
+2009-10-15 14:36
+Dainius
+$/MatrixKozijn Tools/DXF/MxKDXFReportLaunch/Source/UI/ReportGroups/ReportsGroupsTemplate.h
+10
+$/MatrixKozijn Tools/DXF/MxKDXFReportLaunch/Source/UI/GenerationStatus/GenerationStatusDlg.cpp
+12
+$/MatrixKozijn Tools/DXF/MxKDXFReportLaunch/Source/StdAfx.h
+13
+
+**********
+32
+2009-10-15 15:01
+Gediminas
+$/MatrixKozijn Tools/DXF/MxKDxfReports/Source/Functions/SPReportsGenerator.cpp
+68
+
+**********
+33
+2009-10-15 15:35
+Dainius
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/GenerateBrandDrawing.cpp
+198
+
+**********
+34
+2009-10-15 15:43
+Gediminas
+$/Wood/MatrixKozijn/Functions/DXFReports/GenerateDXFReports.cpp
+29
+
+**********
+35
+2009-10-15 17:11
+Tomas
+$/MatrixKozijn Tools/UI/CncCalcDlg/Source/CNCCalcDlg.cpp
+9
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReports.h
+22
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/ReportsInterface.cpp
+62
+
+**********
+36
+2009-10-15 18:36
+Dainius
+$/MatrixKozijn Tools/DXF/MxKDXFUI/Source/GenerateDXF/GenerateDrawing.cpp
+156
+$/MatrixKozijn Tools/DXF/MxKDXFUtils/GenerateBrandDrawingAbs.h
+35
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/GenerateBrandDrawing.cpp
+199
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/GenerateBrandDrawing.h
+56
+
+**********
+37
+2009-10-16 13:14
+Tomas
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsTreeBarImpl.h
+5
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReportsBar.cpp
+19
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsTreeCtrl.h
+14
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReportsFrame.cpp
+16
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsStateFrame.cpp
+7
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsSelectObs.h
+10
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReportsFrame.h
+15
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/StdAfx.h
+19
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/ReportsModule.cpp
+10
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/RepTabWnd.h
+7
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReports.cpp
+31
+
+**********
+38
+2009-10-16 13:31
+Gediminas
+$/Wood/ShapeManager/UI/Grooves/ShapeNodeGrid.cpp
+41
+
+**********
+39
+2009-10-16 13:33
+Tomas
+$/MatrixKozijn Tools/MxKFileUtils/Source/StdAfx.h
+10
+$/MatrixKozijn Tools/MxKFileUtils/Source/StdAfx.cpp
+2
+$/MatrixKozijn Tools/MxKFileUtils/Source/MxKFileUtils.cpp
+5
+
+**********
+40
+2009-10-16 13:59
+Jonas
+$/PVC/MatrixKozijnPlastic/UI/MainUI/ProjConvert/VersionManager.cpp
+13
+
+**********
+41
+2009-10-16 14:11
+Gediminas
+$/Wood/ShapeManager/UI/Grooves/ShapeNodeGrid.cpp
+42
+
+**********
+42
+2009-10-16 15:05
+Tomas
+$/MatrixKozijn Tools/Modules/DBManager/Source/DBManager.cpp
+10
+$/MatrixKozijn Tools/Modules/DBManager/Source/DBManager/DBHtmlModule.cpp
+18
+
+**********
+43
+2009-10-16 15:30
+Gediminas
+$/Wood/ShapeManager/UI/Grooves/ShapeNodeGrid.cpp
+43
+$/Wood/MxKGSDrawing/Source/Data/GSCalcAngleValues.cpp
+6
+
+**********
+44
+2009-10-16 15:58
+Tomas
+$/MatrixKozijn Tools/MxKFileUtils/Source/Utils/FileUtilEx.cpp
+18
+$/MatrixKozijn Tools/MxKFileUtils/Source/Utils/FileUtilEx.h
+17
+
+**********
+45
+2009-10-16 16:05
+Gediminas
+$/Wood/MxKLibraryUI/Source/RacksUI/RackShapeUtil.cpp
+33
+
+**********
+46
+2009-10-16 16:05
+Tomas
+$/Wood/MatrixKozijn/UI/MainUI/MatrixKozijn.cpp
+369
+
+**********
+47
+2009-10-16 16:26
+Jonas
+$/PVC/DatabaseConverter/CommandLineConv.cpp
+3
+
+**********
+48
+2009-10-16 17:26
+Tomas
+$/PVC/MatrixKozijnPlastic/UI/MainUI/MatrixKozijnPlastic.cpp
+222
+$/MatrixKozijn Tools/MxKFileUtils/Source/Utils/FileUtilEx.cpp
+20
+$/Elements/MatrixElements/UI/MainUI/MatrixElements.cpp
+176
+$/Elements/MxEProjectUI/Source/MxEProjectUI.cpp
+4
+$/MatrixKozijn Tools/UI/BrandSelGrid/Source/BrandSelGrid.cpp
+13
+$/MatrixKozijn Tools/UI/CalcFlowUI/Source/CalcFlowUI.cpp
+11
+$/MatrixKozijn Tools/Data/MatCalcUtil/Source/MatCalcUtil.cpp
+6
+$/MatrixKozijn Tools/Ctrl/MxKCtrls/Source/MxKCtrls.cpp
+17
+$/PVC/MxKPColors/Source/MxKPColors.cpp
+10
+$/PVC/MxKPProjectUI/Source/MxKPProjectUI.cpp
+9
+$/PVC/PVCFunc/Source/PVCFunc.cpp
+8
+$/PVC/MxKPPaneDrawings/Source/MxKPPaneDrawings.cpp
+12
+$/PVC/MxKPPaneDrawings/Source/StdAfx.cpp
+5
+
+**********
+49
+2009-10-16 19:57
+Dainius
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandDrawing.h
+4
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/GenerateBrandDrawing.cpp
+200
+
+**********
+50
+2009-10-19 16:23
+Tomas
+$/MatrixKozijn Tools/Modules/VDrawModule/Source/StdAfx.h
+16
+$/MatrixKozijn Tools/Modules/VDrawModule/Source/VDrawModule.cpp
+9
+$/MatrixKozijn Tools/Modules/VDrawModule/Source/VDrawModule/VDrawOptions.h
+4
+$/MatrixKozijn Tools/Modules/VDrawModule/Source/VDrawModule/VDrawOptionsDialog.cpp
+7
+$/MatrixKozijn Tools/Modules/VDrawModule/Source/VDrawModule/CreateVToolBar.cpp
+17
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/ReportsModule.cpp
+11
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsStateFrame.h
+8
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/StdAfx.h
+20
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/resource.h
+13
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsToolbar.cpp
+2
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsToolbar.h
+2
+$/MatrixKozijn Tools/Modules/WinModule/Source/Project/BasicProject.cpp
+4
+$/MatrixKozijn Tools/Modules/WinModule/Source/StdAfx.h
+26
+$/MatrixKozijn Tools/Modules/WinModule/Source/StdAfx.cpp
+3
+$/MatrixKozijn Tools/Modules/VDrawModule/Source/VDrawModule/CreateVToolBar.h
+9
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReportsFrame.cpp
+17
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReports.cpp
+32
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReports.h
+23
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReportsBar.h
+9
+$/MatrixKozijn Tools/Modules/VDrawModule/Source/VDrawModule/FileFrameHandlerLib.cpp
+3
+$/MatrixKozijn Tools/Modules/WinModule/Source/Project/BasicProject.h
+23
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsTreeBar.h
+31
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsTreeBar.cpp
+3
+
+**********
+51
+2009-10-19 17:37
+Dainius
+$/MatrixKozijn Tools/DXF/MxKDXFUI/Source/GenerateDXF/GenerateDrawing.cpp
+157
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandDrawing.h
+5
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandProperties.h
+4
+
+**********
+52
+2009-10-19 19:24
+Jonas
+$/MatrixKozijn Tools/UI/MxKArticleGrids/Source/ArticleGrids/ArtActGridsApi.cpp
+75
+
+**********
+53
+2009-10-20 14:03
+Tomas
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/StdAfx.h
+21
+$/MatrixKozijn Tools/Modules/BonusInput/Source/StdAfx.cpp
+2
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/resource.h
+14
+$/MatrixKozijn Tools/Modules/BrandCertModule/Source/StdAfx.cpp
+2
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/CrystalReports/peplus.cpp
+3
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsStateFrame.cpp
+8
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsStateFrame.h
+9
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsToolbar.h
+3
+$/PVC/MatrixKozijnPlastic/UI/BrandInput/BrandInputBar.h
+11
+$/PVC/MatrixKozijnPlastic/UI/BrandInput/FrameInputStep/AssignProfAction.h
+20
+$/MatrixKozijn Tools/Modules/BrandList/Source/StdAfx.cpp
+3
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsTreeBar.cpp
+5
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsTreeBar.h
+32
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsToolbar.cpp
+4
+$/MatrixKozijn Tools/Modules/VDrawModule/Source/PrinStatusDlg/PrintStatusDlg.h
+4
+$/MatrixKozijn Tools/Modules/VDrawModule/Source/VDrawModule/Menu.h
+4
+$/MatrixKozijn Tools/Modules/VDrawModule/Source/VDrawModule/VDrawOptionsDialog.h
+4
+$/MatrixKozijn Tools/Modules/VDrawModule/Source/VDrawModule/VModuleFrame.h
+6
+
+**********
+54
+2009-10-20 18:20
+Dainius
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/DxfInfoAlignment.cpp
+6
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/DxfTextHeight.cpp
+7
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/DxfTextHeight.h
+6
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandRemark.cpp
+1
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandRemark.h
+1
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/GenerateBrandDrawing.cpp
+201
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandDrawing.h
+6
+$/MatrixKozijn Tools/DXF/MxKDXFUtils/BrandDrawingInfo.h
+35
+$/MatrixKozijn Tools/DXF/MxKDXFUI/Source/GenerateDXF/GenerateDrawingRescale.cpp
+43
+
+**********
+55
+2009-10-20 18:20
+Jonas
+$/Elements/MatrixElements/Functions/Drawings/DXFBlockLoader.cpp
+15
+
+**********
+56
+2009-10-21 11:53
+Tomas
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReportsBar.h
+10
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReportsBar.cpp
+20
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsTreeBar.cpp
+6
+$/MatrixKozijn Tools/Ctrl/TabControl/TabWndExObs.h
+4
+$/MatrixKozijn Tools/Ctrl/TabControl/TabBeamDrawSpace.h
+3
+$/MatrixKozijn Tools/Ctrl/TabControl/TabBeam.h
+8
+$/MatrixKozijn Tools/Ctrl/TabControl/TabWndEx.h
+3
+$/MatrixKozijn Tools/Ctrl/TabControl/DrawSunkenBorders.h
+3
+$/MatrixKozijn Tools/Ctrl/TabControl/EditTabWndTempl.h
+5
+$/MatrixKozijn Tools/Ctrl/TabControl/TabControlUtilsSpace.h
+3
+$/MatrixKozijn Tools/Ctrl/TabControl/TabInfo.h
+4
+$/MatrixKozijn Tools/Ctrl/TabControl/TabWnd.h
+3
+$/MatrixKozijn Tools/Ctrl/TabControl/TabWndExTempl.h
+6
+$/MatrixKozijn Tools/Ctrl/TabControl/EditLabelPopup.h
+2
+$/MatrixKozijn Tools/Ctrl/TabControl/EditTabWnd.h
+3
+$/MatrixKozijn Tools/Ctrl/TabControl/EditTabBeam.h
+3
+$/MatrixKozijn Tools/Ctrl/TabControl/TabWndTempl.h
+7
+$/MatrixKozijn Tools/Ctrl/TabControl/TabWndTemplImpl.h
+11
+$/MatrixKozijn Tools/Ctrl/TabControl/TabWndEditEx.h
+3
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportsFiles.cpp
+4
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportOptions.cpp
+5
+$/MatrixKozijn Tools/Modules/ReportsModule/Include/TempReportsPath.h
+12
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsTreeCtrl.h
+15
+$/Wood/MxKProjectUI/Source/MxKProjectUI.cpp
+5
+$/Wood/MxKProjectUI/Source/MxKProjectUIInterface.cpp
+17
+$/Wood/MxKProjectUI/Source/StdAfx.cpp
+3
+$/Wood/MxKProjectUI/Source/StdAfx.h
+8
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReportsFrame.h
+16
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsTreeCtrl.cpp
+26
+
+**********
+57
+2009-10-21 12:06
+Jonas
+$/Elements/MatrixElements/UI/SharedUI/MxEChildFrame.cpp
+32
+$/Elements/MatrixElements/UI/SharedUI/PaneTemplateTreeCtrl.cpp
+49
+$/Elements/MatrixElements/UI/SharedUI/ProfileCombiSelectTreeDlg.cpp
+17
+$/Elements/MatrixElements/UI/SharedUI/ProfilesInputTree.cpp
+43
+$/Elements/MatrixElements/Utils/MFCUtils/Controls/SplitterPane.cpp
+9
+$/Elements/MatrixElements/UI/SharedUI/CodeDescrTreeCtrl.cpp
+33
+$/Elements/MatrixElements/UI/SharedUI/CodeDescrLibProjTreeCtrl.cpp
+17
+$/Elements/MatrixElements/UI/SharedUI/CodeDescrBarTree.cpp
+15
+$/Elements/MatrixElements/UI/ProjectInput/ProjectInput.cpp
+217
+
+**********
+58
+2009-10-21 13:52
+Dainius
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/GenerateBrandDrawing.cpp
+202
+
+**********
+59
+2009-10-21 18:46
+Tomas
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsSelectObs.h
+13
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsSelectObs.cpp
+3
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsTreeCtrl.h
+16
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReports.h
+25
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsStateFrame.h
+10
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportTabData.h
+2
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReportsBar.h
+12
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/RepTabWnd.cpp
+8
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/RepTabWnd.h
+11
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/CrystalReports/peplus.cpp
+4
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReportsFrame.h
+19
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/Functions/CRPrintImpl.cpp
+35
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsTreeCtrl.cpp
+30
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReportsFrame.cpp
+21
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReportsBar.cpp
+24
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReports.cpp
+35
+
+**********
+60
+2009-10-22 10:56
+Tomas
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportOptions.h
+4
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportOptions.cpp
+6
+
+**********
+61
+2009-10-22 11:31
+Gediminas
+$/Wood/MxKGSDrawing/Source/Drawing/GSDC.h
+30
+$/Wood/MxKGSDrawing/Source/Drawing/DXF/DXFGSDC.h
+36
+$/Wood/MxKGSDrawing/Source/Drawing/OnScreen/OnScreenGSDC.cpp
+15
+$/Wood/MxKGSDrawing/Source/Drawing/OnScreen/OnScreenGSDC.h
+26
+$/Wood/MxKGSDrawing/Source/Drawing/DXF/DXFGSDC.cpp
+23
+
+**********
+62
+2009-10-22 14:14
+Tomas
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportOptionsImpl.h
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportOptionsImpl.cpp
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportOptions.h
+5
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsFiltersDlg.cpp
+3
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/RepFilterWizardWordsDlg.h
+3
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/OutLookRichEdit.h
+3
+$/MatrixKozijn Tools/Ctrl/TEMPLATEUTILS/TemplateAbs.h
+5
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/RepFiltersEdit.cpp
+2
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/RepFiltersEdit.h
+3
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/RepFilterWizardWordsDlg.cpp
+3
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/Functions/ReportOptions.cpp
+9
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/ReportsFiltersTemplate.h
+5
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/ReportsFiltersTemplate.cpp
+5
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsGroupsGrid.cpp
+4
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsGroupsTemplate.cpp
+4
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/ReportsFiltersWizardDlg/RepFilterWizard.cpp
+4
+$/MatrixKozijn Tools/UI/ReportsDlg/Source/DialogImpl/ReportsGroupsTemplate.h
+3
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/Functions/CRPrintImpl.cpp
+38
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ProjectReportsBar.cpp
+25
+$/MatrixKozijn Tools/Modules/ReportsModule/Source/UI/ReportsTreeBar.cpp
+7
+
+**********
+63
+2009-10-22 14:35
+Dainius
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFLHDescr.h
+1
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFLHDescr.cpp
+1
+
+**********
+64
+2009-10-22 15:23
+Tomas
+$/Wood/MatrixKozijn/UI/ProjectInput/ProjectInput.cpp
+318
+$/Wood/MatrixKozijn/Functions/MxKDatabase/ResultDatabasesPaths.cpp
+17
+$/Wood/MatrixKozijn/Functions/OnScreenDrawings/BrandDrawing/BrandBitmap.cpp
+73
+$/Wood/MatrixKozijn/UI/DBManager/AppLauncher.cpp
+10
+$/Wood/MatrixKozijn/UI/MainUI/DayTipDlg.cpp
+26
+$/Wood/MatrixKozijn/Functions/MxKDatabase/DatabasesRegistry.cpp
+21
+
+**********
+65
+2009-10-22 15:41
+Dainius
+$/MatrixKozijn Tools/DXF/MxKDXFUI/Source/GenerateDXF/GenerateDrawing.cpp
+158
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/GenerateBrandDrawing.cpp
+203
+
+**********
+66
+2009-10-22 17:32
+Tomas
+$/MatrixKozijn Tools/Data/LocksHinges/LHArticleLoader.h
+17
+$/MatrixKozijn Tools/MxKDBUtils/MxKDaoTable.h
+58
+$/PVC/MatrixKozijnPlastic/Functions/MxKDatabase/CheckDBVersion.h
+8
+$/MatrixKozijn Tools/MxKDBUtils/DatabaseUtil.h
+16
+$/MatrixKozijn Tools/MxKDBUtils/SysDBInfoLoader.h
+17
+$/PVC/MatrixKozijnPlastic/UI/MainUI/PrepareDealerData/PrepareDealerDataDlg.cpp
+32
+$/PVC/MatrixKozijnPlastic/UI/MainUI/ImportManufacturerData/ImportManufDataDlg.cpp
+20
+$/PVC/MatrixKozijnPlastic/Functions/MxKDatabase/DBPackUtil.cpp
+6
+$/PVC/MatrixKozijnPlastic/Functions/MxKDatabase/LoadDatabases.cpp
+11
+$/MatrixKozijn Tools/UI/BlockingRulesUI/Source/StdAfx.h
+7
+$/MatrixKozijn Tools/Data/BlockingRules/Include/BlockingRulesLoader.h
+8
+$/MatrixKozijn Tools/Data/BlockingRules/Source/StdAfx.cpp
+3
+$/MatrixKozijn Tools/MxKImage/Source/StdAfx.h
+6
+$/MatrixKozijn Tools/MxKImage/Source/MxKImage.h
+3
+$/MatrixKozijn Tools/MxKImage/Source/BitmapConverter.h
+22
+$/MatrixKozijn Tools/MxKImage/Source/BitmapConverter.cpp
+27
+$/MatrixKozijn Tools/MxKImage/Include/MxKImageAll.h
+5
+
+**********
+67
+2009-10-22 18:56
+Dainius
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFPaneContentDescr.h
+1
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFPaneContentDescr.cpp
+1
+$/MatrixKozijn Tools/DXF/MxKDXFUtils/DrawHelper.h
+52
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/GenerateBrandDrawing.cpp
+204
+
+**********
+68
+2009-10-22 19:30
+Jonas
+$/Wood/DatabaseConverter/OPTConverter.cpp
+49
+
+**********
+69
+2009-10-23 11:23
+Tomas
+$/PVC/MxKPSteelStiffGrids/Source/MxKPSteelStiffGrid.cpp
+7
+$/PVC/MxKPOptionsUI/Include/MxKPOptionsUIAll.h
+8
+$/PVC/MxKPOptionsUI/Source/MxKPOptionsUI.cpp
+20
+$/PVC/MxKPOptionsUI/Source/OptionsLauncher.cpp
+20
+$/PVC/MxKPLibraryUI/Source/MxKPLibraryUI.cpp
+17
+$/PVC/MxKPLibraryUI/Source/StdAfx.cpp
+5
+
+**********
+70
+2009-10-23 12:21
+Gediminas
+$/PT/MxKProductTable/Functions/PTFunctions.cpp
+27
+
+**********
+71
+2009-10-23 14:57
+Tomas
+$/MatrixKozijn Tools/UI/PaneContGrDlg/Source/StdAfx.h
+10
+$/MatrixKozijn Tools/UI/PaneContGrDlg/Source/StdAfx.cpp
+2
+$/MatrixKozijn Tools/UI/PaneContGrDlg/Source/PaneContGrDlg.cpp
+6
+$/MatrixKozijn Tools/Data/MatCalcUtil/Source/LHCombiCalc/CalcLHCombi.cpp
+43
+$/MatrixKozijn Tools/Data/MatCalcUtil/Source/LHCombiCalc/CalcLHPos.h
+8
+$/MatrixKozijn Tools/Data/MatCalcUtil/Source/LHCombiCalc/CalcLHPos.cpp
+12
+$/PVC/MxKPPaneDrawings/Source/PaneDrawing/Impl/OnScreenDrawings/DrawPaneCombiLockHingeDC.cpp
+6
+$/PVC/MxKPPaneDrawings/Source/PaneDrawing/Impl/OnScreenDrawings/DrawPaneCombiLockHingeDC.h
+19
+
+**********
+72
+2009-10-23 17:42
+Jonas
+$/Wood/DatabaseConverter/OPTConverter.cpp
+50
+
+**********
+73
+2009-10-23 20:06
+Dainius
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/GenerateBrandDrawing.cpp
+205
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandCertificate.h
+2
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandCertificate.cpp
+2
+
+**********
+74
+2009-10-26 17:34
+Tomas
+$/MatrixKozijn Tools/Data/LocksHinges/LHArticleLoader.h
+18
+$/MatrixKozijn Tools/UI/MxKArticleGrids/Source/StdAfx.cpp
+5
+$/MatrixKozijn Tools/UI/MxKArticleGrids/Source/MxKPArticleGrids.cpp
+17
+$/MatrixKozijn Tools/UI/MxKArticleGrids/Language/ResDef.h
+22
+$/MatrixKozijn Tools/UI/MxKArticleGrids/Source/ArticleGrids/LHGrid/LHArticleGrid.cpp
+75
+
+**********
+75
+2009-10-26 19:22
+Jonas
+$/Wood/DatabaseConverter/OPTConverter.cpp
+52
+
+**********
+76
+2009-10-26 19:50
+Dainius
+$/MatrixKozijn Tools/DXF/MxKDXFUI/Source/DrawingUI/DrawingTemplateUI/CollumnsPage/DrawingTemplCollumnsGrid.cpp
+12
+$/MatrixKozijn Tools/DXF/MxKDXFUtils/DrawHelper.h
+53
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/DxfTextHeight.cpp
+8
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/DxfTextHeight.h
+7
+
+**********
+77
+2009-10-27 12:05
+Tomas
+$/PVC/MxKPPaneDrawings/Source/StdAfx.h
+66
+$/PVC/MxKPDBLoaders/CNC/CNCLHLoader.h
+12
+
+**********
+78
+2009-10-27 13:41
+Dainius
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandDrawing.cpp
+3
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFPaneContentDescr.h
+2
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFPaneContentDescr.cpp
+2
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFLHDescr.h
+2
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFLHDescr.cpp
+2
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandRemark.h
+2
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandRemark.cpp
+2
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandProperties.h
+5
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandProperties.cpp
+3
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandDrawing.h
+7
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandCertificate.h
+3
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFObjects/DXFBrandCertificate.cpp
+3
+$/MatrixKozijn Tools/DXF/MxKDXFUtils/DrawHelper.h
+54
+
+**********
+79
+2009-10-27 18:19
+Tomas
+$/PVC/MxKPDBLoaders/CNC/CNCLHLoader.h
+13
+$/Wood/MatrixKozijn/Functions/MxKDatabase/DBObserverHints.h
+11
+$/Wood/MatrixKozijn/Functions/MxKDatabase/DatabasesRegistry.h
+15
+$/Wood/MatrixKozijn/Functions/MxKDatabase/DatabasesRegistry.cpp
+22
+$/Wood/MatrixKozijn/Functions/MxKDatabase/DBPackUtil.cpp
+18
+$/Wood/MatrixKozijn/Functions/MxKDatabase/DatabaseMediator.h
+21
+$/Wood/MatrixKozijn/Functions/MxKDatabase/DBPackUtil.h
+3
+$/Wood/MatrixKozijn/Functions/MxKDatabase/LibraryDBMediator.cpp
+14
+$/Wood/MatrixKozijn/Functions/MxKDatabase/LibraryDBMediator.h
+15
+$/Wood/MatrixKozijn/Functions/MxKDatabase/MxKDatabase.cpp
+26
+$/Wood/MatrixKozijn/Functions/MxKDatabase/MxKDatabase.h
+23
+$/Wood/MatrixKozijn/Functions/MxKDatabase/OptionsDBMediator.cpp
+14
+$/Wood/MatrixKozijn/Functions/MxKDatabase/RegSettingsDSN.h
+13
+$/Wood/MatrixKozijn/Functions/MxKDatabase/ReportException.cpp
+12
+$/Wood/MatrixKozijn/Functions/MxKDatabase/ReportException.h
+12
+$/Wood/MatrixKozijn/Functions/MxKDatabase/RegSettingsDSN.cpp
+19
+$/Wood/MatrixKozijn/Functions/MxKDatabase/ProjectDBMediator.h
+15
+$/Wood/MatrixKozijn/Functions/MxKDatabase/ProjectDBMediator.cpp
+13
+$/Wood/MatrixKozijn/Functions/MxKDatabase/OptionsDBMediator.h
+15
+$/Wood/MatrixKozijn/Functions/MxKDatabase/TmpFiles.cpp
+82
+$/Wood/MatrixKozijn/Functions/MxKDatabase/ProductDBMediator.cpp
+13
+$/Wood/MatrixKozijn/UI/ProjectInput/ProjectInput.cpp
+319
+$/Wood/MatrixKozijn/Functions/MxKDatabase/ShapesDB/ShapesDBRegistry.h
+12
+$/Wood/MatrixKozijn/Functions/MxKDatabase/TmpFiles.h
+33
+$/Wood/MatrixKozijn/Functions/MxKDatabase/ProductDBMediator.h
+15
+$/Wood/MxKLibraryUI/Source/StdAfx.cpp
+4
+
+**********
+80
+2009-10-27 18:23
+Dainius
+$/MatrixKozijn Tools/DXF/MxKDXFUI/Source/GenerateDXF/GenerateDrawingRescale.cpp
+44
+$/MatrixKozijn Tools/DXF/MxKDXFUtils/BrandDrawingInfo.h
+36
+$/MatrixKozijn Tools/DXF/MxKDXFUI/Source/GenerateDXF/GenerateDrawing.cpp
+159
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/GenerateBrandDrawing.cpp
+206
+
+**********
+81
+2009-10-27 18:43
+Tomas
+$/Wood/MxKLibraryUI/Source/MxKLibraryUI.cpp
+8
+$/Wood/MatrixKozijn/UI/DBManager/ProjectDlgsLauncher.cpp
+218
+$/Wood/MxKLibraryUI/Source/MxKLibraryUIInterface.h
+34
+$/Wood/MxKLibraryUI/Source/EdgeCombiUI/EdgeCombiDlg/ProjEdgeCombiUI/SingleEdgeCombiDlg.cpp
+47
+$/Wood/MxKLibraryUI/Source/EdgeCombiUI/EdgeCombiDlg/ProjEdgeCombiUI/ProjEdgeCombiDlg.h
+51
+$/Wood/MxKLibraryUI/Source/EdgeCombiUI/EdgeCombiDlg/ProjEdgeCombiUI/ProjEdgeCombiDlg.cpp
+86
+$/Wood/MxKLibraryUI/Source/EdgeCombiUI/EdgeCombiDlg/ProjEdgeCombiUI/EERefContentDlg.cpp
+21
+
+**********
+82
+2009-10-28 12:32
+Tomas
+$/MatrixKozijn Tools/UI/BrandArtActDlg/Source/BrandArtActDlg.cpp
+8
+$/MatrixKozijn Tools/UI/BrandArtActDlg/Source/StdAfx.cpp
+2
+$/Wood/MatrixKozijn/Functions/Calculations/CNCCalculation/CNCLockHingeCalc.h
+12
+$/Wood/MatrixKozijn/Functions/Calculations/CNCCalculation/CNCLockHingeCalc.cpp
+17
+$/Wood/MatrixKozijn/Functions/Calculations/CNCCalculation/CNCCalculations.cpp
+409
+$/MatrixKozijn Tools/UI/CncCalcDlg/Source/Dialogs/CNCPromptDlg.h
+2
+$/MatrixKozijn Tools/UI/CncCalcDlg/Source/Dialogs/CNCSettingsDlg.h
+9
+$/MatrixKozijn Tools/UI/CncCalcDlg/Source/Dialogs/CNCPromptDlg.cpp
+2
+$/MatrixKozijn Tools/UI/CncCalcDlg/Source/Dialogs/ExchangeCNCDataDlg.h
+13
+$/MatrixKozijn Tools/UI/CncCalcDlg/Source/Dialogs/ExchangeCNCDataSheet.h
+5
+$/MatrixKozijn Tools/UI/CncCalcDlg/Source/Dialogs/ExchangeCNCSelectionPage.h
+4
+$/MatrixKozijn Tools/UI/CncCalcDlg/Source/Dialogs/CNCExchDlgHandler.h
+3
+$/MatrixKozijn Tools/UI/CncCalcDlg/Source/Dialogs/CNCBrandGridWnd.h
+3
+$/MatrixKozijn Tools/UI/CncCalcDlg/Source/StdAfx.h
+12
+$/MatrixKozijn Tools/UI/CncCalcDlg/Source/CncDialogInterface.h
+10
+$/MatrixKozijn Tools/UI/CncCalcDlg/Source/CncDialogInterface.cpp
+9
+$/MatrixKozijn Tools/UI/CncCalcDlg/Source/CNCCalcDlg.h
+2
+$/MatrixKozijn Tools/UI/CncCalcDlg/Source/CNCCalcDlg.cpp
+10
+$/MatrixKozijn Tools/UI/CncCalcDlg/Include/CncCalcDlgAll.h
+5
+$/MatrixKozijn Tools/UI/CncCalcDlg/Source/Dialogs/ExchangeCNCDataDlg.cpp
+35
+$/Elements/MatrixElements/UI/DBManager/ProjectDlgsLauncher.cpp
+3
+$/Elements/MatrixElements/UI/DBManager/ProjectDlgsLauncher.h
+3
+$/Elements/MatrixElements/UI/DBManager/ToolsDlgsLauncher.cpp
+4
+$/Elements/MatrixElements/UI/MainUI/MatrixElements.cpp
+177
+$/PVC/MatrixKozijnPlastic/UI/MainUI/MatrixKozijnPlastic.cpp
+223
+$/MatrixKozijn Tools/UI/MxKArticleGrids/Source/ArticleGrids/LHGrid/LHArticleGrid.cpp
+76
+

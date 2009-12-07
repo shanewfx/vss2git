@@ -1,0 +1,169 @@
+**********
+1
+1998-10-01 16:43
+Waidas
+$/MatrixKozijn Tools/MxKCollections/WindowState.h
+2
+
+**********
+2
+1999-05-10 15:17
+Waidas
+$/MatrixKozijn Tools/MxKGrids/Source/GridControls/GXDateTimeCtrl.h
+1
+$/MatrixKozijn Tools/MxKGrids/Source/GridControls/GXDateTimeCtrl.cpp
+1
+
+**********
+3
+1999-05-11 17:57
+Waidas
+$/MatrixKozijn Tools/MxKGrids/Source/GridControls/GXDateTimeCtrl.h
+2
+$/MatrixKozijn Tools/MxKGrids/Source/GridControls/GXDateTimeCtrl.cpp
+2
+
+**********
+4
+1999-05-20 20:13
+Waidas
+$/MatrixKozijn Tools/MxKGrids/Source/GridControls/GXDateTimeCtrl.cpp
+3
+
+**********
+5
+1999-06-10 14:30
+Waidas
+$/MatrixKozijn Tools/MxKGrids/Source/GridControls/GXDateTimeCtrl.cpp
+4
+
+**********
+6
+1999-06-22 11:23
+Waidas
+$/MatrixKozijn Tools/MxKGrids/Source/GridControls/GXDateTimeCtrl.cpp
+5
+
+**********
+7
+1999-07-09 17:06
+Waidas
+$/MatrixKozijn Tools/MxKCollections/WindowState.h
+3
+
+**********
+8
+1999-08-20 20:04
+Waidas
+$/MxUserAdmin/MxUserAdmin.cpp
+1
+$/MxUserAdmin/AdminView.cpp
+1
+$/MxUserAdmin/ListViewEx.cpp
+1
+$/MxUserAdmin/ListViewEx.h
+1
+$/MxUserAdmin/CodePassword.h
+1
+$/MxUserAdmin/CodePassword.cpp
+1
+$/MxUserAdmin/MainFrm.cpp
+1
+$/MxUserAdmin/MxUserAdmin.h
+1
+$/MxUserAdmin/AdminDoc.h
+1
+$/MxUserAdmin/StdAfx.h
+1
+$/MxUserAdmin/EditDialog.h
+1
+$/MxUserAdmin/AdminView.h
+1
+$/MxUserAdmin/resource.h
+1
+$/MxUserAdmin/EditDialog.cpp
+1
+$/MxUserAdmin/AdminDoc.cpp
+1
+$/MxUserAdmin/StdAfx.cpp
+1
+$/MxUserAdmin/RightsView.h
+1
+$/MxUserAdmin/MainFrm.h
+1
+$/MxUserAdmin/RightsView.cpp
+1
+
+**********
+
+
+
+
+
+
+
+
+
+
+<<< ERASED >>>
+
+
+
+
+
+
+
+
+
+
+**********
+15958
+2009-10-07 19:26
+Dainius
+$/MatrixKozijn Tools/Modules/VDrawModule/Source/Functions/PrintTempReports.h
+8
+$/MatrixKozijn Tools/Modules/VDrawModule/Source/VDrawModule/FileFrameHandler.h
+22
+$/MatrixKozijn Tools/Modules/VDrawModule/Source/StdAfx.h
+15
+$/MatrixKozijn Tools/Modules/VDrawModule/Source/VDrawModule/PlotMgrListBarImpl.h
+11
+$/MatrixKozijn Tools/DXF/MxKDxfReports/Source/UI/SPReportTemplPaperOptPage.h
+13
+$/MatrixKozijn Tools/DXF/MxKDXFUI/Source/DrawingUI/DrawingTemplateUI/DrawingTemplatePage1.h
+21
+$/Wood/MatrixKozijn/UI/MainUI/AppInit.cpp
+52
+$/MatrixKozijn Tools/UI/RemarksUI/Source/StdAfx.h
+15
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/DXFInfoCollector/DXFInfoCollector.cpp
+1
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/DXFInfoCollector/DXFInfoCollector.h
+3
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/DXFInfoCollector/DXFInfoCollectorUtils.h
+1
+$/Wood/MatrixKozijn/Functions/DXFReports/DXFDrawings/GenerateBrandDrawing.cpp
+194
+
+**********
+15959
+2009-10-07 23:35
+Tomas
+$/MatrixKozijn Tools/Modules/WinModule/Source/WinAppModule/WinAppModule.cpp
+20
+
+**********
+15960
+2009-10-08 10:05
+Gediminas
+$/Wood/MxKLibraryUI/Source/resource.h
+43
+$/Wood/MxKLibraryUI/Source/RacksUI/RackShapeUtil.cpp
+26
+$/Wood/MxKLibraryUI/Source/RacksUI/RackShapeUtil.h
+23
+$/Wood/MxKLibraryUI/Source/RacksUI/RackShapeUtil.cpp
+27
+$/Wood/MxKLibraryUI/Source/RacksUI/RackShapeUtil.h
+24
+
