@@ -108,12 +108,6 @@ public:
 
 		if (!m_bDBCreated)
 		{
-			CString sGitIgnore(m_sWorkingDir);
-			sGitIgnore += "/.gitignore";
-			::DeleteFile(sGitIgnore);
-			RUN(FormatStr("ECHO *.scc>> %s", sGitIgnore));
-			RUN(FormatStr("ECHO *.obj>> %s", sGitIgnore));
-
 			if (::IsFromDate())
 			{
 				CString sComment;

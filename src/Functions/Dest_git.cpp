@@ -25,6 +25,8 @@ void destination::Create(LPCTSTR szOutputFile, LPCTSTR szWorkingDir, LPCTSTR szT
 		CString sOutputFile = szOutputFile;
 		sOutputFile.Replace("../", "../../"); //workaround
 
+		//git init
+
 		CString sCommand;
 		sCommand.Format("git init >> %s", sOutputFile);
 		RUN(sCommand);
@@ -34,6 +36,14 @@ void destination::Create(LPCTSTR szOutputFile, LPCTSTR szWorkingDir, LPCTSTR szT
 
 		sCommand.Format("ECHO. >> %s", sOutputFile);
 		RUN(sCommand);
+
+		//.gitignore
+
+		CString sGitIgnore(szWorkingDir);
+		sGitIgnore += "/.gitignore";
+		::DeleteFile(sGitIgnore);
+		RUN(FormatStr("ECHO *.scc>> %s", sGitIgnore));
+		RUN(FormatStr("ECHO *.obj>> %s", sGitIgnore));
 
 		destination::Commit(szOutputFile, szWorkingDir, szTime, szUser, szEmail, szComment);
 	}
