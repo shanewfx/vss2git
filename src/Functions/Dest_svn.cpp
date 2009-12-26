@@ -25,10 +25,10 @@ void destination::Create(LPCTSTR szOutputFile, LPCTSTR szWorkingDir, LPCTSTR szT
 	GetCurrentDirectory(2000, sCurrentDir.GetBufferSetLength(2000));
 	sCurrentDir.Replace("\\", "/");
 	
-	if (!file::DoesFileExist(".svn"))
+	CString sSvn = FormatStr("%s/.svn", szWorkingDir);
+	if (!file::DoesFileExist(sSvn))
 	{
 		CString sOutputFile = szOutputFile;
-		//sOutputFile.Replace("../", "../../"); //workaround
 
 		CString sCommand;
 		sCommand.Format("svnadmin create repo>> %s", sOutputFile);
@@ -62,7 +62,7 @@ void destination::Commit(LPCTSTR szOutputFile, LPCTSTR szWorkingDir, LPCTSTR szT
 	sOutputFile.Replace("../", "../../"); //workaround
 
 	CString sCommand;
-	sCommand.Format("svn add * >> %s", sOutputFile);
+	sCommand.Format("svn add * --force>> %s", sOutputFile);
 	RUN(sCommand);
 
 //	sCommand.Format("git config user.name %s >> %s", szUser, sOutputFile);
@@ -77,7 +77,7 @@ void destination::Commit(LPCTSTR szOutputFile, LPCTSTR szWorkingDir, LPCTSTR szT
 //						config::szTimeZone,
 //						szComment,
 //						sOutputFile);
-	sCommand.Format("svn commit -m \"%s\" >> %s",
+	sCommand.Format("svn commit -m \"%s\" --non-interactive >> %s",
 						szComment,
 						//szWorkingDir,
 						sOutputFile);
