@@ -2,7 +2,7 @@
 
 #ifdef _GIT
 
-#include "GitFunc.h"
+#include "Dest.h"
 #include "Functions/FileFunc.h"
 #include "Functions/Config.h"
 

@@ -2,7 +2,7 @@
 
 #ifdef _SVN
 
-#include "SvnFunc.h"
+#include "Dest.h"
 #include "Functions/FileFunc.h"
 #include "Functions/Config.h"
 

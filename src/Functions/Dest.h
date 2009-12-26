@@ -1,8 +1,6 @@
-#ifndef __SvnFunc_H__
-#define __SvnFunc_H__
+#ifndef __Dest_H__
+#define __Dest_H__
 #pragma once
-
-#ifdef _SVN
 
 
 namespace destination
@@ -15,5 +13,4 @@ namespace destination
 //namespace git
 
 
-#endif //_SVN
-#endif //__SvnFunc_H__
+#endif //__Dest_H__

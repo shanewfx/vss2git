@@ -1,17 +1,11 @@
 #include "StdAfx.h"
 #include "Processor.h"
 
+#include "Dest.h"
 #include "VssFunc.h"
-#include "GitFunc.h"
-#include "SvnFunc.h"
 #include "FileFunc.h"
-
 #include "Config.h"
 #include "Data.h"
-
-//#include "Tools/FileUtil.h"
-//#include "Tools/FileUtilEx.h"
-
 
 #include <conio.h>
 

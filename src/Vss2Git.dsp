@@ -161,6 +161,18 @@ SOURCE=.\Functions\Data.h
 # End Source File
 # Begin Source File
 
+SOURCE=.\Functions\Dest.h
+# End Source File
+# Begin Source File
+
+SOURCE=.\Functions\Dest_git.cpp
+# End Source File
+# Begin Source File
+
+SOURCE=.\Functions\Dest_svn.cpp
+# End Source File
+# Begin Source File
+
 SOURCE=.\Functions\FileFunc.cpp
 # End Source File
 # Begin Source File
@@ -169,71 +181,11 @@ SOURCE=.\Functions\FileFunc.h
 # End Source File
 # Begin Source File
 
-SOURCE=.\Functions\GitFunc.cpp
-
-!IF  "$(CFG)" == "vss2git - Win32 Release"
-
-!ELSEIF  "$(CFG)" == "vss2git - Win32 Debug"
-
-!ELSEIF  "$(CFG)" == "vss2git - Win32 vss2svn_Debug"
-
-!ELSEIF  "$(CFG)" == "vss2git - Win32 vss2svn_Release"
-
-!ENDIF 
-
-# End Source File
-# Begin Source File
-
-SOURCE=.\Functions\GitFunc.h
-
-!IF  "$(CFG)" == "vss2git - Win32 Release"
-
-!ELSEIF  "$(CFG)" == "vss2git - Win32 Debug"
-
-!ELSEIF  "$(CFG)" == "vss2git - Win32 vss2svn_Debug"
-
-!ELSEIF  "$(CFG)" == "vss2git - Win32 vss2svn_Release"
-
-!ENDIF 
-
-# End Source File
-# Begin Source File
-
 SOURCE=.\Functions\Processor.cpp
 # End Source File
 # Begin Source File
 
 SOURCE=.\Functions\Processor.h
-# End Source File
-# Begin Source File
-
-SOURCE=.\Functions\SvnFunc.cpp
-
-!IF  "$(CFG)" == "vss2git - Win32 Release"
-
-!ELSEIF  "$(CFG)" == "vss2git - Win32 Debug"
-
-!ELSEIF  "$(CFG)" == "vss2git - Win32 vss2svn_Debug"
-
-!ELSEIF  "$(CFG)" == "vss2git - Win32 vss2svn_Release"
-
-!ENDIF 
-
-# End Source File
-# Begin Source File
-
-SOURCE=.\Functions\SvnFunc.h
-
-!IF  "$(CFG)" == "vss2git - Win32 Release"
-
-!ELSEIF  "$(CFG)" == "vss2git - Win32 Debug"
-
-!ELSEIF  "$(CFG)" == "vss2git - Win32 vss2svn_Debug"
-
-!ELSEIF  "$(CFG)" == "vss2git - Win32 vss2svn_Release"
-
-!ENDIF 
-
 # End Source File
 # Begin Source File
 
