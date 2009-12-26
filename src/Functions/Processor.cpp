@@ -1,14 +1,17 @@
 #include "StdAfx.h"
 #include "Processor.h"
 
-#include "Data.h"
 #include "VssFunc.h"
 #include "GitFunc.h"
+#include "SvnFunc.h"
 #include "FileFunc.h"
+
 #include "Config.h"
+#include "Data.h"
 
 //#include "Tools/FileUtil.h"
 //#include "Tools/FileUtilEx.h"
+
 
 #include <conio.h>
 
@@ -120,7 +123,7 @@ public:
 			if (::IsFromDate())
 			{
 				CString sComment;
-				git::GetLastComment(m_sWorkingDir, sComment);
+				destination::GetLastComment(m_sWorkingDir, sComment);
 
 				const int nCut = sComment.Find(" (updated)");
 
@@ -146,7 +149,7 @@ public:
 			}
 
 			sComment.Format("vss2git: %d", 0);
-			git::Create(m_sOutputFile, m_sWorkingDir, pGroupData->time, pGroupData->user, config::szEmail, sComment);
+			destination::Create(m_sOutputFile, m_sWorkingDir, pGroupData->time, pGroupData->user, config::szEmail, sComment);
 
 			m_bDBCreated = true;
 		}
@@ -183,7 +186,7 @@ public:
 
 		RUN(FormatStr("ECHO.>> %s", m_sOutputFile));
 
-		git::Commit(m_sOutputFile, m_sWorkingDir, pGroupData->time, pGroupData->user, config::szEmail, sComment);
+		destination::Commit(m_sOutputFile, m_sWorkingDir, pGroupData->time, pGroupData->user, config::szEmail, sComment);
 		
 		RUN(FormatStr("ECHO.>> %s", m_sOutputFile));
 

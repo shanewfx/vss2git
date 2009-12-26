@@ -1,8 +1,8 @@
 #include "StdAfx.h"
 
-#ifdef _GIT
+#ifdef _SVN
 
-#include "GitFunc.h"
+#include "SvnFunc.h"
 #include "Functions/FileFunc.h"
 #include "Functions/Config.h"
 
@@ -104,6 +104,6 @@ void destination::GetLastComment(LPCTSTR szWorkingDir, CString &sComment)
 	SetCurrentDirectory(sOriginalDir);
 }
 
-#endif //_GIT
+#endif //_SVN
 
 
