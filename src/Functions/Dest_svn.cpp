@@ -62,7 +62,11 @@ void destination::Commit(LPCTSTR szOutputFile, LPCTSTR szWorkingDir, LPCTSTR szT
 	sOutputFile.Replace("../", "../../"); //workaround
 
 	CString sCommand;
-	sCommand.Format("svn add * --force>> %s", sOutputFile);
+	
+	sCommand.Format("del del /F /S /Q *.scc >> %s", sOutputFile);
+	RUN(sCommand);
+
+	sCommand.Format("svn add * --force >> %s", sOutputFile);
 	RUN(sCommand);
 
 //	sCommand.Format("git config user.name %s >> %s", szUser, sOutputFile);
