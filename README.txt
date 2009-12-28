@@ -2,7 +2,7 @@
 INFO
 --------------------------------------------------------------------------------
 
-This console application converts Microsoft Visual SourceSafe database to GIT or SVN repository
+vss2git / vss2svn  application converts Microsoft Visual SourceSafe database to GIT / SVN repository
 
 Simple cycle "ss get" "git/svn commit" is used.
 Commits are grouped by user but split by date
