@@ -34,6 +34,8 @@ void destination::Create(LPCTSTR szOutputFile, LPCTSTR szWorkingDir, LPCTSTR szT
 		sCommand.Format("svnadmin create repo>> %s", sOutputFile);
 		RUN(sCommand);
 
+		RUN("echo. >> repo/hooks/pre-revprop-change.cmd");
+
 		sCommand.Format("svn checkout --non-interactive \"file:///%s/repo\" \"%s\" >> %s", sCurrentDir, szWorkingDir, sOutputFile);
 		RUN(sCommand);
 
@@ -69,22 +71,24 @@ void destination::Commit(LPCTSTR szOutputFile, LPCTSTR szWorkingDir, LPCTSTR szT
 	sCommand.Format("svn add * --force >> %s", sOutputFile);
 	RUN(sCommand);
 
-//	sCommand.Format("git config user.name %s >> %s", szUser, sOutputFile);
-//	RUN(sCommand);
-
 //	sCommand.Format("git config user.email %s >> %s", szEmail, sOutputFile);
 //	RUN(sCommand);
 
 
-//	sCommand.Format("env GIT_AUTHOR_DATE=\"%s 0 %s\" git commit -m '%s' >> %s",
-//						szTime,
-//						config::szTimeZone,
-//						szComment,
-//						sOutputFile);
 	sCommand.Format("svn commit -m \"%s\" --non-interactive >> %s",
 						szComment,
 						//szWorkingDir,
 						sOutputFile);
+	RUN(sCommand);
+
+	CString sTime = szTime;
+	sTime.SetAt(10, _T('T'));
+	sTime += ":00.0Z";
+
+	sCommand.Format("svn propset -rHEAD --revprop svn:date \"%s\" >> %s", sTime, /*config::szTimeZone,*/ sOutputFile);
+	RUN(sCommand);
+
+	sCommand.Format("svn propset -rHEAD --revprop svn:author \"%s\" >> %s", szUser, sOutputFile);
 	RUN(sCommand);
 
 	SetCurrentDirectory(sOriginalDir);
