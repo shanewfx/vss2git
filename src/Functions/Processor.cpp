@@ -120,14 +120,11 @@ public:
 					sComment = sComment.Left(nCut);
 				}
 
-				if (0 == sComment.Find("vss2git: "))
+				CString sPre = FormatStr("%s: ", destination::GetCommentPrefix());
+
+				if (0 == sComment.Find(sPre))
 				{
-					sComment = sComment.Right(sComment.GetLength() - strlen("vss2git: "));
-					m_nCommitNr = atoi(sComment);
-				}
-				else if (0 == sComment.Find("vss2git"))
-				{
-					sComment = sComment.Right(sComment.GetLength() - strlen("vss2git"));
+					sComment = sComment.Right(sComment.GetLength() - strlen(sPre));
 					m_nCommitNr = atoi(sComment);
 				}
 				else
@@ -136,14 +133,14 @@ public:
 				}
 			}
 
-			sComment.Format("vss2git: %d", 0);
+			sComment.Format("%s: %d", destination::GetCommentPrefix(), 0);
 			destination::Create(m_sOutputFile, m_sWorkingDir, pGroupData->time, pGroupData->user, config::szEmail, sComment);
 
 			m_bDBCreated = true;
 		}
 
 		++ m_nCommitNr;
-		sComment.Format("vss2git: %d", m_nCommitNr);
+		sComment.Format("%s: %d", destination::GetCommentPrefix(), m_nCommitNr);
 
 		if (::IsFromDate())
 		{

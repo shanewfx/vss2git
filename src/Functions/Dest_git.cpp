@@ -107,11 +107,14 @@ void destination::GetLastComment(LPCTSTR szWorkingDir, CString &sComment)
 		file.Close();
 	}
 
-//	sComment = "vss2git: 12345";
-
 	::DeleteFile(sOutputFile);
 
 	SetCurrentDirectory(sOriginalDir);
+}
+
+LPCTSTR destination::GetCommentPrefix()
+{
+	return _T("vss2git");
 }
 
 #endif //_GIT

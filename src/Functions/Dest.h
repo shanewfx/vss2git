@@ -9,6 +9,7 @@ namespace destination
 	void Commit(LPCTSTR szOutputDir, LPCTSTR szWorkingDir, LPCTSTR szTime, LPCTSTR szUser, LPCTSTR szEmail, LPCTSTR szComment);
 
 	void GetLastComment(LPCTSTR szWorkingDir, CString &sComment);
+	LPCTSTR GetCommentPrefix();
 };
 //namespace git
 

@@ -96,34 +96,41 @@ void destination::Commit(LPCTSTR szOutputFile, LPCTSTR szWorkingDir, LPCTSTR szT
 
 void destination::GetLastComment(LPCTSTR szWorkingDir, CString &sComment)
 {
-//	CString sOriginalDir;
-//	GetCurrentDirectory(2000, sOriginalDir.GetBufferSetLength(2000));
-//	SetCurrentDirectory(szWorkingDir);
-//	
-//	CString sOutputFile = config::szDump;
-//	sOutputFile.Replace("../", "../../"); //workaround
-//
-//	CString sCommand;
-//	sCommand.Format("git log -1 >> %s", sOutputFile);
-//	RUN(sCommand);
-//
-//	CStdioFile file;
-//	if (file.Open(sOutputFile, CFile::modeRead | CFile::shareDenyNone, NULL))
-//	{
-//		file.ReadString(sComment);
-//		file.ReadString(sComment);
-//		file.ReadString(sComment);
-//		file.ReadString(sComment);
-//		file.ReadString(sComment);
-//		sComment.TrimLeft();
-//		file.Close();
-//	}
-//
-////	sComment = "vss2git: 12345";
-//
-//	::DeleteFile(sOutputFile);
-//
-//	SetCurrentDirectory(sOriginalDir);
+	CString sOriginalDir;
+	GetCurrentDirectory(2000, sOriginalDir.GetBufferSetLength(2000));
+	SetCurrentDirectory(szWorkingDir);
+	
+	CString sOutputFile = config::szDump;
+	sOutputFile.Replace("../", "../../"); //workaround
+
+	CString sCommand;
+
+	sCommand.Format("svn update >> %s", sOutputFile);
+	RUN(sCommand);
+	
+	sCommand.Format("svn log -l 1 >> %s", sOutputFile);
+	RUN(sCommand);
+
+	CStdioFile file;
+	if (file.Open(sOutputFile, CFile::modeRead | CFile::shareDenyNone, NULL))
+	{
+		file.ReadString(sComment);
+		file.ReadString(sComment);
+		file.ReadString(sComment);
+		file.ReadString(sComment);
+		file.ReadString(sComment);
+		sComment.TrimLeft();
+		file.Close();
+	}
+
+	::DeleteFile(sOutputFile);
+
+	SetCurrentDirectory(sOriginalDir);
+}
+
+LPCTSTR destination::GetCommentPrefix()
+{
+	return _T("vss2svn");
 }
 
 #endif //_SVN
